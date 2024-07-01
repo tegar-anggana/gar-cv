@@ -40,7 +40,7 @@ h1 + p,
 h1 + p strong,
 h1 + p a {
     font-size: 11px;
-    color: #555;
+    /* color: #555; */
 }
 
 h1 + p {
