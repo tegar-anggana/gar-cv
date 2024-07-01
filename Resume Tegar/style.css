@@ -45,7 +45,7 @@ h1 + p a {
 
 h1 + p {
     text-align: center;
-    line-height: 0.8rem;
+    /* line-height: 0.8rem; */
     margin-bottom: 2rem;
 }
 
