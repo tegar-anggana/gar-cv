@@ -27,12 +27,3 @@
 1. Handled bug tracing and bug reproduction for the Human Resource Management Information System (HRMIS) application
 1. Implemented a Telegram bot to run scheduled database queries, using Python
 1. Implemented end-to-end (E2E) testing, using Cypress 
-
-## Projects
-
-### Attendance Tracking
-1. Monitoring employee attendance, leave balances, and work hours.
-*React, NestJS*
-
-### Employee Task Tracking
-1. Monitoring employee tasks
