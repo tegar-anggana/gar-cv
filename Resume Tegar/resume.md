@@ -9,18 +9,26 @@
 ## Education
 
 **Bachelor of Informatics Engineering,** Universitas Islam Negeri Sunan Gunung Djati Bandung
-*2020-2024*
+*2020 - now*
+- Cumulative GPA : 3.89
 
 **Mathematics & Natural Science,** SMAN 24 Bandung
-*2020-2024*
+*2017 - 2020*
 
 ## Skills
 - **Languages:** HTML, CSS, JavaScript, Python, SQL
-- **Libraries / Frameworks:** React, Flutter, NestJS
+- **Libraries / Frameworks:** React, Flutter, NextJS
 
-## Internships
+## Internships & Training
 
-### Technical Support & Quality Assurance
+### Bangkit Academy 2023 (Kampus Merdeka Program)
+**Led by Google, Tokopedia, Gojek, & Traveloka** – Remote
+*Feb 2023 – July 2023*
+
+1. Learned Web Development & Google Cloud Computing Foundations
+1. Implemented backend REST API deployment using Firebase, NodeJS, Google Cloud
+
+### Technical Support & Quality Assurance (Internship)
 **PT Neuronworks Indonesia** – Bandung, West Java, Indonesia
 *July 2023 – June 2024*
 
