@@ -6,6 +6,8 @@ header:
   - text: <span class="iconify" data-icon="tabler:mail"></span> tegarla123@gmail.com
     link: mailto:icancook@email.com
   - text: <span class="iconify" data-icon="tabler:map-pin"></span> Bandung, Indonesia
+  - text: LinkedIn
+    link: https://www.linkedin.com/in/tegar-levta-anggana-a616b1203
 ---
 
 <!-- - text: <span class="iconify" data-icon="tabler:palette"></span> Portfolio Link
