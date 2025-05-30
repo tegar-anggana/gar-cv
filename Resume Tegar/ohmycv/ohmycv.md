@@ -32,6 +32,14 @@ Bachelor of Informatics Engineering, GPA : 3.92
 Mathematics & Natural Science
   ~ 2017 - 2020
 
+## Experience
+**Web Developer**
+  ~ 2025
+<div>PT. Akhdani Reka Solusi</div>
+  ~ Bandung
+
+- Contributed to the development of a Vendor Held Stock application and TKDN application using C#, .NET, Blazor, and SQL Server.
+- Responsible for implementing key features including Excel import/export, PDF export, and full CRUD operations.
 
 ## Internships
 **Frontend Developer Intern**
