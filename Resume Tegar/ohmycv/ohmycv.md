@@ -73,9 +73,9 @@ Mathematics & Natural Science
 
 ## Skills
 
-**Languages:** HTML, CSS, Python, JavaScript, PHP 
+**Languages:** HTML, CSS, Python, JavaScript, PHP, C# 
 
-**Tools and Frameworks:** Laravel, React, MySQL
+**Tools and Frameworks:** Laravel, React, .NET, MySQL
 
 <!-- ## Projects
 **Employee & Shift Management Website**
